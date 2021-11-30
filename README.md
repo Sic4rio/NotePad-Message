@@ -1,5 +1,5 @@
 # NotePad-Message
-simple bat script to pop up a message while displaying a matrix style terminal in the backround
+a very shitty simple bat script to pop up a message while displaying a matrix style terminal in the backround lmao good for when in the mall pc shopping
 
 1. customize the message
 2. Save the file as .BAT 
